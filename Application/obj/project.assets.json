@@ -6419,8 +6419,7 @@
     ]
   },
   "packageFolders": {
-    "/Users/carrieschmid/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/carrieschmid/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -6431,9 +6430,6 @@
       "packagesPath": "/Users/carrieschmid/.nuget/packages/",
       "outputPath": "/Users/carrieschmid/Desktop/React_.NET-formfix2/Application/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "/Users/carrieschmid/.nuget/NuGet/NuGet.Config"
       ],

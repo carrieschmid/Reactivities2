@@ -13,9 +13,6 @@
         "packagesPath": "/Users/carrieschmid/.nuget/packages/",
         "outputPath": "/Users/carrieschmid/Desktop/React_.NET-formfix2/Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "/Users/carrieschmid/.nuget/NuGet/NuGet.Config"
         ],
@@ -72,9 +69,6 @@
         "packagesPath": "/Users/carrieschmid/.nuget/packages/",
         "outputPath": "/Users/carrieschmid/Desktop/React_.NET-formfix2/Persistence/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "/Users/carrieschmid/.nuget/NuGet/NuGet.Config"
         ],
