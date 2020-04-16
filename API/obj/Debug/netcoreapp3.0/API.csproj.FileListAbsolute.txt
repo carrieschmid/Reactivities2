@@ -268,7 +268,6 @@
 /Users/carrieschmid/Desktop/React_.NET-formfix2/API/bin/Debug/netcoreapp3.0/appsettings.Development.json
 /Users/carrieschmid/Desktop/React_.NET-formfix2/API/bin/Debug/netcoreapp3.0/appsettings.json
 /Users/carrieschmid/Desktop/React_.NET-formfix2/API/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
-/Users/carrieschmid/Desktop/React_.NET-formfix2/API/bin/Debug/netcoreapp3.0/API.StaticWebAssets.xml
 /Users/carrieschmid/Desktop/React_.NET-formfix2/API/bin/Debug/netcoreapp3.0/API
 /Users/carrieschmid/Desktop/React_.NET-formfix2/API/bin/Debug/netcoreapp3.0/API.deps.json
 /Users/carrieschmid/Desktop/React_.NET-formfix2/API/bin/Debug/netcoreapp3.0/API.runtimeconfig.json
@@ -329,8 +328,6 @@
 /Users/carrieschmid/Desktop/React_.NET-formfix2/API/bin/Debug/netcoreapp3.0/Domain.pdb
 /Users/carrieschmid/Desktop/React_.NET-formfix2/API/bin/Debug/netcoreapp3.0/Persistence.pdb
 /Users/carrieschmid/Desktop/React_.NET-formfix2/API/obj/Debug/netcoreapp3.0/API.csprojAssemblyReference.cache
-/Users/carrieschmid/Desktop/React_.NET-formfix2/API/obj/Debug/netcoreapp3.0/staticwebassets/API.StaticWebAssets.Manifest.cache
-/Users/carrieschmid/Desktop/React_.NET-formfix2/API/obj/Debug/netcoreapp3.0/staticwebassets/API.StaticWebAssets.xml
 /Users/carrieschmid/Desktop/React_.NET-formfix2/API/obj/Debug/netcoreapp3.0/API.MvcApplicationPartsAssemblyInfo.cs
 /Users/carrieschmid/Desktop/React_.NET-formfix2/API/obj/Debug/netcoreapp3.0/API.MvcApplicationPartsAssemblyInfo.cache
 /Users/carrieschmid/Desktop/React_.NET-formfix2/API/obj/Debug/netcoreapp3.0/API.AssemblyInfoInputs.cache
